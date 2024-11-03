@@ -1,0 +1,29 @@
+.card-game{
+    width: 100px;
+    border: transparent;
+    box-shadow: 2px 2px 2px rgb(206, 206, 206);
+    border-radius: 8px;
+    margin: 10px;
+    background-color: rgb(55, 31, 239);
+    align-items: center;
+    text-align: center;
+    padding-top: 18px;
+}
+
+.card-close{
+    width: 100px;
+    border: transparent;
+    box-shadow: 2px 2px 2px rgb(206, 206, 206);
+    border-radius: 8px;
+    margin: 10px;
+    background-color: rgb(103, 28, 105);
+    align-items: center;
+    text-align: center;
+    padding-top: 18px;
+}
+
+
+.card-value{
+    font-size: 32px;
+}
+

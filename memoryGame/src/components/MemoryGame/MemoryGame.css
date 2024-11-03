@@ -1,0 +1,13 @@
+.MemoryGame{
+    width: 600px;
+    height: 400px;
+    margin-left: 50%;
+    background-color: rgb(152, 181, 254);
+    border-radius: 7px;
+    box-shadow: 1px 2px 2px rgb(109, 109, 109);
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    padding: 45px;
+}
+
