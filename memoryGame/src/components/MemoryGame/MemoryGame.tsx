@@ -5,7 +5,7 @@ import CardItem from '../CardItem/CardItem'
 
 const MemoryGame:React.FC = () => {
 
-  const [cards,setData] = useState<Card[]>(data);
+  const [cards] = useState<Card[]>(data);
   
   const [flippedCards, setFlippedCards] = useState<Card[]>([]);
   const [matchedCards, setMatchedCards] = useState<number[]>([]);

@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from 'react'
+
 import { Card } from '../../data/data'
 import "./CardItem.css"
 
